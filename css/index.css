@@ -55,7 +55,7 @@ a {
   color: var(--link-color);
 }
 section {
-  padding: 20px 0px;
+  padding: 10px 0px;
 }
 button {
   border: none;
@@ -162,7 +162,15 @@ ul.info-ul > li {
   background-color: var(--primary-button-bg);
   color: var(--primary-button-color);
   font-size: 1rem;
-
+}
+.github-corner {
+  position: absolute;
+  top: 0;
+  z-index: 99999;
+  right: 0px;
+}
+body.dark .github-corner {
+  filter: invert(100%);
 }
 .imp-button {
   color: var(--font-color-primary);
