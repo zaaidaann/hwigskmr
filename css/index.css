@@ -55,7 +55,7 @@ a {
   color: var(--link-color);
 }
 section {
-  padding: 10px 0px;
+  padding: 20px 0px;
 }
 button {
   border: none;
@@ -63,7 +63,7 @@ button {
   color: var(--font-color-primary);
   border-radius: 6px;
   cursor: pointer;
-  padding: 10px 20px;
+  padding: 10px 10px;
 }
 
 h1 {
