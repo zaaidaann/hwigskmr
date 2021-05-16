@@ -1,6 +1,10 @@
 /* CSS Variables */
 html,
 body {
+ padding-top: 12px;
+}
+
+body {
   margin: 0px;
 }
  {
