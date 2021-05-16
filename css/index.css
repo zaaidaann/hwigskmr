@@ -3,6 +3,11 @@ html,
 body {
   margin: 0px;
 }
+ {
+    text-align: center;
+    border-top-width: 0px;
+    border-top-style: solid;
+}
 body {
   --background-primary: #fff;
   --font-color-primary: #333;
